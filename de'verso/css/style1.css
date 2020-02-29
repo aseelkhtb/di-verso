@@ -44,17 +44,17 @@ body{
 }
 .mainnav a{
 	text-decoration: none;
-	color: #575753;
+	color: #b3b3aa;
 	font-size: 12px;
 }
 .el{
 	display: inline-block;
-	padding: 15px 5px;
+	padding: 15px 10px;
 }
 .navcont{
 	display: inline-block;
 	float: right;
-	margin: 0px;
+	margin: 0px;: 
 
 }
 .navcont img{
@@ -66,8 +66,9 @@ body{
 }
 .mainnav p{
 	display: block;
-	color: #575753;
+	color: #b3b3aa;
 	font-size: 12px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
 	padding-top: 3px;
 	margin-top: 0px;
 }
@@ -113,6 +114,7 @@ body{
 }
 .Contentsdiv .content h2{
 	color: #3F3F3C;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
 }
 .Contentsdiv .content img{
 	width: 100%;
